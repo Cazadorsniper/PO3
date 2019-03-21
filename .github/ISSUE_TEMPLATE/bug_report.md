@@ -13,4 +13,4 @@ assignees: ''
 
 **Steps to reproduce:**
 
-**Crash log <use pastebin or similar>:**
+**Crash log (use pastebin or similar):**
