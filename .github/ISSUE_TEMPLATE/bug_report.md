@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 **Pack Version:**
+**Singleplayer, Multiplayer, or LAN?:**
 
 **Description:**
 
