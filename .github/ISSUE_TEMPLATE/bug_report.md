@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-> Use the search function before reporting to see if the issue has been reported before.
+# Use the search function before reporting to see if the issue has been reported before.
 **Pack Version:**
 **Singleplayer, Multiplayer, or LAN?:**
 
