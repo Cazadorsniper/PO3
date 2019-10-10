@@ -9,6 +9,7 @@ assignees: ''
 
 # Use the search function before reporting to see if the issue has been reported before.
 **Pack Version:**
+**Pack Mode:**
 **Singleplayer, Multiplayer, or LAN?:**
 
 **Description:**
