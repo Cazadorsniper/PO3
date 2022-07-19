@@ -9,7 +9,7 @@ assignees: Cazadorsniper
 
 # Use the search function before reporting to see if the issue has been reported before.
 **Pack Version:**
-**Pack Mode (Normal, Titan, Kappa):**
+**Pack Mode (Normal, Titan, Kappa, Mythic):**
 **Singleplayer, Multiplayer, or LAN?:**
 
 **Description:**
